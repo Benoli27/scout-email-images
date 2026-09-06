@@ -1,0 +1,4 @@
+# OS and editor cruft, never images.
+.DS_Store
+Thumbs.db
+desktop.ini
