@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Email Generator//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:91167216-a68b-4fd0-b441-0ade4b938ee7@scout-email-generator
+DTSTAMP:20260906T173057Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270301
+SUMMARY:Scouts - Residential Reward Weekend 2027
+LOCATION:TBC
+DESCRIPTION:A fun weekend of activities where we stay in a hut and the leaders do the cooking! 
+END:VEVENT
+END:VCALENDAR
