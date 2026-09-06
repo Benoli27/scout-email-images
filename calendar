@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Email Generator//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:244a3847-a8ad-4342-bf53-ac9ed368c72d@scout-email-generator
+DTSTAMP:20260906T160744Z
+DTSTART:20260710T170000
+DTEND:20260712T150000
+SUMMARY:Summer Adventure Camp 2026
+LOCATION:Gilwell Park National Activity Centre\, Bury Rd\, Chingford\, London E4 7QW
+DESCRIPTION:Annual Summer Adventure Camp at Gilwell Park. Please wear full uniform and pack according to the packing list.
+END:VEVENT
+END:VCALENDAR
